@@ -1,0 +1,1 @@
+Practicing web development with a recipe assignment from the Odin Project.
